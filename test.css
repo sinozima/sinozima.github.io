@@ -12,6 +12,17 @@ header p{
     font-size:24px;
     position:relative;
     left:20px;
+    float:left;
+}
+.github{
+    width:70px;
+    position:relative;
+    left:850px;
+}
+.twitter{
+    width:70px;
+    position:relative;
+    left:1000px;
 }
 .wrapper{
     background-color:rgb(240,240,240);
@@ -21,7 +32,7 @@ header p{
 footer{
     background-color:rgb(10,10,10);
     height:100px;
-    width:110%;
+    width:100%;
 }
 footer p{
     text-align:center;
