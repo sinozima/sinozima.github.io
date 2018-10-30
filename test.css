@@ -5,6 +5,7 @@ header{
     position:fixed;
 }
 header p{
+    font-style:"sans-serif";
     line-height: 70px;
     vertical-align:middle;
     padding-right:20px;
@@ -15,14 +16,14 @@ header p{
     float:left;
 }
 .github{
+    float:right;
     width:70px;
     position:relative;
-    left:850px;
+    bottom:0px;
 }
 .twitter{
     width:70px;
-    position:relative;
-    left:1000px;
+    float:right;
 }
 .wrapper{
     background-color:rgb(209, 209, 209);
