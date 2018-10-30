@@ -5,11 +5,13 @@ header{
     position:fixed;
 }
 header p{
-    text-align:center;
-    color:reb(0,0,0);
-}
-body{
-    background-color:rgb(200,200,200);
+    line-height: 70px;
+    vertical-align:middle;
+    padding-right:20px;
+    color:#fff;
+    font-size:24px;
+    position:relative;
+    left:20px;
 }
 .wrapper{
     background-color:rgb(240,240,240);
@@ -28,4 +30,9 @@ footer p{
 *{
     margin:0px;
     padding:0px;
+}
+.kame{
+    width:70px;
+    height:70px;
+    float:left;
 }
