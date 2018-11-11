@@ -50,7 +50,7 @@ footer p{
     float:left;
 }
 .he{
-    background-color:blue;
+    background-color:black;
 }
 .hello{
     font-size: 20vw;
@@ -66,7 +66,7 @@ footer p{
 }
 .jp{
     width:100%;
-    background-color:red;
+    background-color:black;
     position:10%;
 }
 .jpmap{
@@ -129,7 +129,7 @@ footer p{
     background-clip: text;
 }
 .sch{
-    background-color:yellow;
+    background-color:black;
 }
 .twit{
     position:relative;
@@ -146,14 +146,14 @@ footer p{
     text-align:center;
 }
 .have{
-    color:#fff;
-    font-size:5vw;
+    color:rgb(72, 198, 236);
+    font-size:8vw;
     position:relative;
     top:10px;
     padding-left:15%;
 }
 .foll{
-    color:#fff;
+    color:rgb(0, 155, 155);
     font-size:8vw;
     position:relative;
     top:-30px;
