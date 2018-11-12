@@ -231,3 +231,13 @@ footer p{
     padding-left:15%;
     font-weight:900;
 }
+.footer{
+     background-color:rgb(26, 26, 26);
+     background-position-y:50%;
+     height:10%;
+     padding-top:30%;
+}
+.mail{
+    font-size:5vw;
+    color:#fff;
+}
