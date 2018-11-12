@@ -1,0 +1,39 @@
+
+.ican{
+    font-family:sans-serif;
+    color:#fff;
+    position:relative;
+    left:10%;
+}
+.unity{
+    font-family:sans-serif;
+    color:#fff;
+    font-size:6vw;
+    position:relative;
+    left:15%;
+    font-weight:900;
+}
+.c{
+    font-family:sans-serif;
+    color:#fff;
+    font-size:6vw;
+    position:relative;
+    left:15%;
+    font-weight:900;
+}
+.html{
+    font-family:sans-serif;
+    color:#fff;
+    font-size:6vw;
+    position:relative;
+    left:15%;
+    font-weight:900;
+}
+.js{
+    font-family:sans-serif;
+    color:#fff;
+    font-size:6vw;
+    position:relative;
+    left:15%;
+    font-weight:900;
+}
