@@ -68,6 +68,7 @@ footer p{
 .jp{
     width:100%;
     background-color:black;
+    font-family:sans-serif;
     position:10%;
 }
 .jpmap{
@@ -78,6 +79,7 @@ footer p{
     padding-top:20%;
 }
 .live{
+    font-family:sans-serif;
     font-size:5vw;
     padding-top:25%;
     padding-left:5%;
@@ -90,6 +92,7 @@ footer p{
     padding-bottom:20%;
 }
 .jpan{
+    font-family:sans-serif;
     color:rgb(0, 0, 0);
     font-size:10vw;
     font-weight:900;
@@ -105,12 +108,14 @@ footer p{
     background-clip: text;
 }
 .of{
+    font-family:sans-serif;
     color:#fff;
     font-size:5vw;
     position:relative;
     left:15%;
 }
 .me{
+    font-family:sans-serif;
     padding-left:10%;
     color:rgb(236, 233, 35);
     position:relative;
@@ -118,6 +123,7 @@ footer p{
     padding-left:7%;
 }
 .school{
+    font-family:sans-serif;
     position:relative;
     top:10px;
     padding-left:7%;
@@ -137,6 +143,7 @@ footer p{
     top:100px;
 }
 .six{
+    font-family:sans-serif;
     color: transparent;
     -webkit-text-fill-color: transparent;
     background: url('./christopher-burns-369659-unsplash.jpg');
@@ -147,6 +154,7 @@ footer p{
     text-align:center;
 }
 .have{
+    font-family:sans-serif;
     color:rgb(72, 198, 236);
     font-size:8vw;
     position:relative;
@@ -154,6 +162,7 @@ footer p{
     padding-left:15%;
 }
 .foll{
+    font-family:sans-serif;
     color:rgb(0, 155, 155);
     font-size:8vw;
     position:relative;
